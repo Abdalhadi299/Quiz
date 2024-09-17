@@ -51,7 +51,7 @@ if (points == 0)
 }
 else if (points < 3)
 {
-  Console.WriteLine("OK, du har hyfsad koll - eller gissade rätt en eller ett par gånger.");
+  Console.WriteLine("grattis du e grym.");
 }
 else 
 {
